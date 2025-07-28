@@ -1,10 +1,17 @@
+import os
 from sentence_transformers import SentenceTransformer, util
 
-MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+MODEL_NAME = "all-MiniLM-L6-v2"
+LOCAL_MODEL_PATH = "./local_models/all-MiniLM-L6-v2"
 
 class EmbeddingEngine:
     def __init__(self, device="cpu"):
-        self.model = SentenceTransformer(MODEL_NAME, device=device)
+        if os.path.exists(LOCAL_MODEL_PATH):
+            print(f"✅ Using local model from: {LOCAL_MODEL_PATH}")
+            self.model = SentenceTransformer(LOCAL_MODEL_PATH, device=device)
+        else:
+            print("⚠️ Local model not found. Downloading from HuggingFace...")
+            self.model = SentenceTransformer(MODEL_NAME, cache_folder=LOCAL_MODEL_PATH, device=device)
 
     def embed_query(self, persona, job):
         text = f"Persona: {persona}. Job: {job}"

@@ -1,0 +1,145 @@
+{
+  "title": "Copy images",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Copy images",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Open the Preferences dialog box if you cannot select an image because of overlapping text.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Select Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1.  Using the Select tool",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•  To select a portion of an image, hold the pointer over the image until the cross-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "hair icon",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Note: To deselect an image and start over, click outside it.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.  Right-click the image and select copy. Once done, you can paste it to a new file or a",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Export objects to separate PDF",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Using the Edit Object tool, you can save objects into a separate PDF.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1.  Select All tools > Use print production > Edit object.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select the object or objects.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.  Right-click the selection, and choose Save Selection As.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4.  In the Save As dialog, specify where you want to save the file, name the file, and then",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Take a snapshot of a page",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": ", draw a rectangle, right-click, and select Take a Snapshot.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "To use the Snapshot tool, do the following:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "more.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.  Do one of the following:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "screen.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•  Drag a rectangle within an image to copy just a portion of the image.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the document, right-click, and select Paste to paste the copied selection",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You can save all the images from a PDF. See Export images to another format . This",
+      "page": 3
+    }
+  ]
+}

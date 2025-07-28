@@ -1,0 +1,445 @@
+{
+  "title": "Persistent chat history",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The option Enable generative AI features in Acrobat is displayed only if you",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Persistent chat history",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "You can access your conversation threads with Acrobat's AI Assistant across sessions. You can",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Access a document where you previously used the AI Assistant to generate responses to your",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Chat history",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Clear chat history",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "You can clear the chat history and ensure that the AI Assistant treats the document as new so",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "To clear chat history:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the document for which you wish to clear the chat history. Select   in the upper",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select Clear chat history. A confirmation dialog box will appear, asking you to confirm",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Clear chat history from the AI assistant",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Your chat history is cleared. You see a message saying - Your chat history was cleared. To",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Copy chat history",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You can copy all chat history and save it to your desired location. The copied chat history will",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "right.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select Copy full chat. The chat gets copied, and you can paste it at your desired",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Read-aloud generated responses",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Quickly review the generated responses using the read-aloud feature in Acrobat AI Assistant.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the document you want to review. Select AI Assistant from the lower right and",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select the speaker icon in the upper right to turn on the read-aloud feature.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3.  Select the play button at the bottom of your screen. It starts to read aloud the last",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The words spoken get highlighted simultaneously to ensure you always have the context and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "You can also select any sentence, and the read-aloud feature will play from the selected",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Change the playback speed",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "You can change the speed at which the feature reads the text.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1.  Select the speed button on the lower left, then select the speed at which you want to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Custom voice for read-aloud feature",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "You can select a custom voice to read the text. Select the custom voice icon in the lower right",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Multiple document support in AI Assistant",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "switch between documents, with responses consolidated from various sources and proper",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1.  Open Acrobat and then open a document. Select AI Assistant. Select the add",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Alternatively, you can also use AI Assistant for multiple docs in the following ways:",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "ellipsis from the top right and then select Ask AI Assistant.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Acrobat > Ask AI Assistant.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "card in the home view. Then select the files you want to add and select Next",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "2.  When the file is added, chat displays the number of files added.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "shown in the Recents tab. You can resume the assistant chat with those files. You can",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Note:",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "left off.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Remove files from a collection",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1.  Select Files in the collection icon in the upper right.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select the remove icon next to the file name. In the dialog box that appears, confirm",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "As a Teams user, learn how to request access to AI Assistant for Acrobat from within the app.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Request access in Acrobat",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "If you're a Teams user, your administrator can turn on the option to request access to the AI",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "1.  Launch Acrobat, and select Get access from the AI Assistant for Acrobat.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "2.  In the Request access dialog, specify a business reason for requesting access to the AI",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3.  Select Send request. Your access request is submitted to the admin for review and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Note: To check the status of your request, select Refresh on the AI Assistant.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "For more information on requesting access to Adobe products and services, see Request",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Request access from the Admin Console (Teams hybrid admins)",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "If you're an admin, you can purchase an AI Assistant for Acrobat add-on subscription through",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "1.  Launch Acrobat and sign in as an administrator.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "2.  From the AI Assistant for Acrobat, select Subscribe now.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "3.  In the dialog that appears, select Continue. If you have already purchased the AI",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "4.  You're redirected to the Add license page to purchase an AI Assistant for Acrobat add-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Purchase licenses",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "5.  Once your purchase is complete, you can assign licenses to users from the Add users",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Note:",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "To check your subscription is activated, select Refresh on the AI Assistant.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Review the status of your request",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "When you submit a request, it can be approved or denied, or the review can be pending.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "license is provisioned to your Adobe account. You'll receive an email notifying you when the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "request, you'll receive an email notifying you why the request was denied. Once denied, you",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Common questions",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "I have multiple profiles associated with my Adobe account. How do I select which profile to",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "If you have multiple profiles associated with your organization-provided Adobe account, you",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "What if I can’t find the option to request access to AI Assistant for Acrobat?",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "If you can't find the option to request access to a product, your administrator may not have",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "What notifications do I receive if a request is approved, declined, or pending?",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "You receive email notifications when an administrator responds to your request, when the",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "What happens if my request is declined?",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "If your request is denied, you'll receive an email explaining why. Once declined, you can re-",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Administer AI Assistant for enterprises",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web,",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Prerequisites",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Before deploying, ensure the following requirements are met:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Notes for Acrobat. Also, refer to the basic configuration settings.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "mentioned in the Acrobat Enterprise Toolkit (ETK).",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "select Enable new Acrobat. For details, see how to enable the new experience.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "•  PDF services for user profiles.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "turn on PDF services in the Admin Console.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "See how to turn on or turn off PDF services.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat Classic does not support AI Assistant.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "License deployment",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console.",
+      "page": 18
+    }
+  ]
+}

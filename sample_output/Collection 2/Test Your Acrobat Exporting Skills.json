@@ -1,0 +1,180 @@
+{
+  "title": "Export Expert: Test Your Acrobat Exporting Skills",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Export Expert: Test Your Acrobat Exporting Skills",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "to be a true PDF exporting pro",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1.  Yes or No: Can you save a PDF in text format to use with a screen reader?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2.  True or False: Saving a digitally signed PDF invalidates the signature.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3.  Scenario: Imagine you're working on an important report and your computer crashes.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Do you rely on the Autosave feature to recover your work or start from scratch?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "4.  Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "5.  True or False: The Autosave feature in Acrobat saves your work every 15 minutes by",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "default.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "6.  Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "convert your PDF to a PowerPoint file or manually recreate the slides?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "7.  Yes or No: Can you export a PDF to a reusable format like Microsoft Word?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "8.  True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "usage rights.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "9.  Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "client. Do you use \"File > Save\" or \"File > Save As\"?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "10. Yes or No: Does the Autosave feature work if a document's security settings are",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "changed?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Acrobat.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "you use the \"Convert\" button in Acrobat or retype the entire document?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "13. Yes or No: Can you export images from a PDF to another format using Acrobat?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Do you use the \"Convert to HTML\" option or manually code the content?",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "19. Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "20. True or False: The Autosave feature is disabled by default in Acrobat.",
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Lunch Ideas.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Mains_3.pdf"
+    ],
+    "persona": {
+      "role": "Food Contractor"
+    },
+    "job_to_be_done": {
+      "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+    },
+    "processing_timestamp": "2025-07-28T21:59:40"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 1,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Cha Gio",
+      "importance_rank": 2,
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie and Hummus Wrap",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Moqueca de Banana",
+      "importance_rank": 4,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Spaghetti Carbonara",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o  Drain on paper towels and serve.",
+      "importance_rank": 6,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Guacamole",
+      "importance_rank": 7,
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "•  Serve on lettuce leaves or whole grain bread.",
+      "importance_rank": 8,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Bammy",
+      "importance_rank": 9,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "•  Serve immediately.",
+      "importance_rank": 10,
+      "page_number": 16
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "Instructions:  o  Peel and shred green papaya and carrot.  o  Crush garlic and chilies in a mortar and pestle.  o  Add fish sauce, lime juice, and sugar, mix well.  o  Toss shredded papaya, carrot, and sliced tomatoes with the dressing.  o  Garnish with crushed peanuts and serve.  Sopa de Tortilla  •  Ingredients:  o  4 corn tortillas  o  1 tablespoon vegetable oil  o  1 small onion  o  2 cloves garlic  o  4 cups chicken broth  o  2 tomatoes  o  1 teaspoon cumin  o  1 avocado  o  1/4 cup cilantr",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Cha Gio  •  Ingredients:  o  1 package spring roll wrappers  o  1/2 pound ground pork  o  1/2 cup shrimp  o  1/2 cup mushrooms  o  1/4 cup carrots  o  1/4 cup green onions  o  2 cloves garlic  o  2 tablespoons fish sauce  o  1 tablespoon sugar  o  Oil for frying  •  Instructions:  o  Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped  green onions, minced garlic, fish sauce, and sugar in a bowl.  o  Place a spoonful of filling on each wrapper and roll tightly.  o  Fry i",
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  Serve on lettuce leaves or whole grain bread.  Caprese Sandwich  Ingredients:  •  2 slices ciabatta bread  1/2 cup fresh mozzarella, sliced  •  1 tomato, sliced  •  •  Fresh basil leaves  1 tablespoon balsamic glaze  •  1 tablespoon olive oil  •  •  Salt and pepper to taste  Instructions:  •  Drizzle olive oil on one slice of bread.  •  Layer the mozzarella, tomato, and basil on top.  •  Drizzle with balsamic glaze and season with salt and pepper.  •  Top with the second slice of bread and cu",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o  1 can diced tomatoes  o  4 cups vegetable broth  o  1 can cannellini beans  o  1 cup pasta  o  1/4 cup basil  o  1/4 cup Parmesan cheese  •  Instructions:  o  Sauté diced onion, carrots, celery, and minced garlic until softened.  o  Add diced zucchini, tomatoes, and broth.  o  Bring to a boil, then simmer for 20 minutes.  o  Add beans and pasta, cook until pasta is tender.  o  Stir in chopped basil and serve with grated Parmesan cheese.  Miso Soup  •  Ingredients:  o  4 cups dashi broth  o  1",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Spaghetti Carbonara  Ingredients:  •  1 pound spaghetti  •  4 eggs  •  1 cup grated Parmesan cheese  •  1/2 cup pancetta, diced  •  2 cloves garlic, minced  •  1/4 cup heavy cream (optional)  •  Salt and pepper to taste  •  Chopped parsley for garnish  Instructions:  In a skillet, cook diced pancetta until crispy, then set aside.  In a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using).  In the same skillet, sauté minced garlic until fragrant.  •  Cook spaghetti according to pa",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o  Drain on paper towels and serve.  Farofa  •  Ingredients:  o  2 cups cassava flour  o  1/4 cup butter  o  1 small onion  o  2 cloves garlic  o  1/4 cup bacon  o  1/4 cup parsley  o  1 teaspoon salt  •  Instructions:  o  Sauté diced bacon, onion, and minced garlic in butter until crispy.  o  Add cassava flour and cook, stirring constantly, until golden.  o  Stir in chopped parsley and salt.  o  Serve warm.  Fattoush  •  Ingredients:  o  2 pita breads  o  4 tomatoes  o  1 cucumber  o  1 small r",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o  Layer potatoes in the dish, seasoning with salt and pepper.  o  Mix cream, milk, and minced garlic, pour over potatoes.  o  Sprinkle with grated Gruyère cheese.  o  Bake for 45 minutes until golden and bubbly.  o  Serve warm.  Greek Salad  •  Ingredients:  o  4 tomatoes  o  1 cucumber  o  1 small red onion  o  1/4 cup olives  o  1/4 cup feta cheese  o  1/4 cup olive oil  o  2 tablespoons red wine vinegar  o  1 teaspoon oregano  o  1 teaspoon salt  •  Instructions:  o  Dice tomatoes and cucumb",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  Serve on lettuce leaves or whole grain bread.  Caprese Sandwich  Ingredients:  •  2 slices ciabatta bread  1/2 cup fresh mozzarella, sliced  •  1 tomato, sliced  •  •  Fresh basil leaves  1 tablespoon balsamic glaze  •  1 tablespoon olive oil  •  •  Salt and pepper to taste  Instructions:  •  Drizzle olive oil on one slice of bread.  •  Layer the mozzarella, tomato, and basil on top.  •  Drizzle with balsamic glaze and season with salt and pepper.  •  Top with the second slice of bread and cu",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "•  Instructions:  o  Form risotto into balls and stuff with a cube of mozzarella.  o  Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.  o  Fry in hot oil until golden.  o  Drain on paper towels and serve warm.  Baba Ganoush  •  Ingredients:  o  2 eggplants  o  1/4 cup tahini  o  1/4 cup lemon juice  o  2 cloves garlic  o  1/4 cup olive oil  o  1 teaspoon salt  •  Instructions:  o  Roast eggplants until soft, then peel and mash.  o  Blend mashed eggplant, tahini, lemon juice,",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•  Serve immediately.  Cottage Cheese and Veggie Bowl  Ingredients:  1 cup cottage cheese  1/4 cup diced cucumber  1/4 cup cherry tomatoes, halved  1/4 cup diced bell pepper  •  •  •  •  •  Salt and pepper to taste  Instructions:  In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.  •  •  Season with salt and pepper.  •  Serve immediately.  Almond Butter and Apple Slices  Ingredients:  1 apple, sliced  •  •  2 tablespoons almond butter  Instructions:  •  Spread almond ",
+      "page_number": 16
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Share",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "document shared as a link opens in any browser on any device. The document is stored",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "securely in Adobe cloud storage. Recipients get an email with a link, and they can click the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "link to view and comment on the document in a browser; no sign-in is required.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1.  Open a PDF in Acrobat or Acrobat Reader and select Share in the upper-right corner.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2.  (Optional) Select Link Setting and ensure that People can comment toggle is on.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.  Select the appropriate option to share the PDF:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and a deadline.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "instructions.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PDF sharing options",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "add a message, or Add deadline, and select Invite.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Add name or email to invite",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•  Create a link and share using third-party apps. When you select any available third-",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "party app like Microsoft Outlook, Gmail, WhatsApp, Microsoft Teams, or the default",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "email client, Acrobat creates a shareable link and opens the respective application",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "with the copied link in the message draft. Alternatively, select Create a link to share,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "then copy and share it with the intended recipients.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Send an anonymous or public link in an email",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "An anonymous or public link makes the files accessible to anyone who clicks the link.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Follow the steps below to create a review link, and share it using your email client.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the PDF in Acrobat.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select Share in the upper right. You get either of the two options:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•  Get link: You get this option when a file isn't synced to the cloud. Select Get",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "link to sync the file to the cloud. Once the file is synced, the get link option",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "changes to Copy link. Select Copy link and share it as desired.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3.  By default, the People can comment switch is turned on. To share the file only for",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "viewing, select Anyone can access and comment in the Share dialog box, and then",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "switch the toggle next to People can comment to turn it off.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "4.  The link is created and copied by default. Share the link with other recipients. You can",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "also perform any of the following actions from the right pane:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•  Add People: Select Share, then enter the email addresses of the people you",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "want to share the file with.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•  Unshare File: Select Share. The profile icons of the people you have shared the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "file with are displayed next to Shared with. Select the profile icon to open the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Shared with the dialog box. Select Unshare in the lower-right to stop sharing",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the file with others.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Mark up text",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Note: The Insert text and Replace selected text commenting tools are now available for",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Highlight, strikethrough, or underline text",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "comment",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Using Select Text Tool",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Using Markup Tool",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Change the color of the markup",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Delete The Markup",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Add a comment to the markup",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Replace text",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select Replace selected text.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "3.  Select the text that you want to replace.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The selected text is crossed out.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "4.  Double-click the selected text and then type the text to be inserted or added.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The insertion caret",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "insertion caret",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Insert text",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "select Insert text.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.  Click between the words or characters where you want to insert text.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "3.  Do any of the following:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "•  Type the text that you want to insert.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Export text edits",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Share a PDF for review",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Send an anonymous or public link in an email",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "link to sync the file to the cloud. Once the file is synced, the get link option",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "with someone.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "such as Microsoft Word. Choose Home > Create PDF and share link.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.  By default, the People can comment switch is turned on. To share the file only for",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "4.  The link is created and copied by default. Share the link with other recipients. You can",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "want to share the file with.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "file with are displayed next to Shared with. Select the profile icon to open the",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Reviewer experience",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "link or the Open button in the invitation, the PDF opens in a web browser. They can use the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Send personalized invitations for commenting",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1.  Open the PDF in Acrobat.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2.  Select Share.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "such as Microsoft Word. Choose Acrobat > Create And Send For Review.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Initiate a review using @mention in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Reviewer experience",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Hosting a shared review on SharePoint or Office 365",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "download all the latest changes. Reviewers are notified of new comments as they are added,",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "You can use your own internal server location, such as a Microsoft SharePoint",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Initiate SharePoint-based shared review",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "using Acrobat",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Before you initiate a review, ensure that you have a SharePoint site and reviewers have write",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "server’s subsite.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "configured.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the PDF document in Acrobat, and then select Send for Review in",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select Send for Shared Commenting in the toolbar.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "3.  Select Automatically collect comments on my own internal server from the",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "4.  Choose SharePoint subsite, and then provide the URL of your subsite on the",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat automatically creates and configures a new document library",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Note: If you don't want Acrobat to automatically configure the review, you can",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "then click Next.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "6.  To save this shared review profile for future use, provide a name and then",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "message, and review deadline, and then click Send.",
+      "page": 14
+    }
+  ]
+}

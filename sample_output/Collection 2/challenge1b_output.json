@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": {
+      "role": "HR professional"
+    },
+    "job_to_be_done": {
+      "task": "Create and manage fillable forms for onboarding and compliance."
+    },
+    "processing_timestamp": "2025-07-28T21:57:32"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "This mode provides simplified authoring with the capability of assigning fields to",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "•  To add form fields and specify where to sign, click Specify where to sign.",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "and more, click More Options.",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "9.  Prepare the Agreement and Add Fields:",
+      "importance_rank": 5,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Interactive form",
+      "importance_rank": 6,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "3.  Add participants:",
+      "importance_rank": 7,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "choose Form Fields Only.",
+      "importance_rank": 8,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "1.  Open the document you want to work on, and then select AI Assistant.",
+      "importance_rank": 9,
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Flat form",
+      "importance_rank": 10,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "•  Simplified mode for multiple signers  This mode provides simplified authoring with the capability of assigning fields to  multiple signers. When you select a signer from the right pane and add fields in the  form, the fields are assigned to the signer. That means those fields will be available to  the signer for filling the information and signing the form.       •  You can switch the assignee of any field using the floating toolbar. The assigned colors  to the signers make it easy to disting",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "•  To add form fields and specify where to sign, click Specify where to sign.  Request signatures – Add Cc, subject, message, More Options  •  If you don't want to use the More Options, skip the next optional step.  4.  (Optional) Click More Options, if you want to specify advanced options, such as signer  authentication, reminders, and more.  •  By default, the Complete in Order setting is turned on. The numbers by the  email addresses reflect the participation order. If you do not want to foll",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing  document.  Flat form  To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS)  choose Save As Other  > Acrobat Reader Extended PDF > Enable More Tools (includes  Form Fill-in & Save).  The tools are enabled for the current form only. When you create a different form, redo this  task to enable Acrobat Reader users to use the tools.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "and more, click More Options.  •  To add form fields and specify where to sign, click Specify where to sign.  Request signatures – Add Cc, subject, message, More Options  •  If you don't want to use the More Options, skip the next optional step.  4.  (Optional) Click More Options, if you want to specify advanced options, such as signer  authentication, reminders, and more.  •  By default, the Complete in Order setting is turned on. The numbers by the  email addresses reflect the participation or",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "9.  Prepare the Agreement and Add Fields:  You can now add any necessary fields to the agreement. Remember that  a Signature field must be placed for each signer (including internal counter-singers).  There are two methods to apply fields:  1. Simple Authoring is loaded by default in most instances. Simple authoring:  •  Is limited to the most common types of fields:  •  Text input (All Text fields are flagged as Required)  •  Signature  •  Signer's name (Printed)  •  Signer's email  •  Signatur",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Interactive form  To create an interactive form, use the Prepare Forms tool. See Create a form from an existing  document.  Flat form  To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS)  choose Save As Other  > Acrobat Reader Extended PDF > Enable More Tools (includes  Form Fill-in & Save).  The tools are enabled for the current form only. When you create a different form, redo this  task to enable Acrobat Reader users to use the tools.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "3.  Add participants:  1. List the participants required.  •  The Sign action is assigned by default.  •  The Sign action allows the participant to enter field data and sign the  agreement.  •  Up to 50 participants are supported.  •  Each participant listed receives their own agreement.      2. Enter recipient email addresses followed by commas, or copy and paste a list of  email addresses into the Email field.  3. Configure participant authentication by clicking the key icon to the right of th",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Print forms  1.  Select Print this file   from the upper right.  2.  Choose an appropriate printer in the Print dialog box.  3.  In the Comments And Forms menu, choose one of the following, and then select OK:  •  •  •  (Interactive or flat form) To print the form and the typed entries,  choose Document. This option prints text that you’ve typed using the Add  Text tool.  (Interactive or flat form) To print the form, the typed entries, and any  comments on the form, choose Document And Markups. ",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "1.  Open the document you want to work on, and then select AI Assistant.   Alternatively, you can also access AI Assistant from the contextual menu. Select  the text for AI Assistant. The contextual menu opens, then select Ask AI  Assistant.",
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Flat form  To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS)  choose Save As Other  > Acrobat Reader Extended PDF > Enable More Tools (includes  Form Fill-in & Save).  The tools are enabled for the current form only. When you create a different form, redo this  task to enable Acrobat Reader users to use the tools.",
+      "page_number": 12
+    }
+  ]
+}

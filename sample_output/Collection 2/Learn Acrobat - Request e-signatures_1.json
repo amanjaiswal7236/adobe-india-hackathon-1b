@@ -1,0 +1,1315 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Send a document to get signatures from",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "others",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the PDF form in Acrobat or Acrobat Reader, and then choose All",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "tools > Request E-signatures. Alternatively, you can select Sign from the top toolbar.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.  The Request Signatures window is displayed. It displays the fields progressively as you",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "enter the details. The left pane provides information on getting signatures from others",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "workflow. In the recipients field, add recipient email addresses in the order you want",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the document to be signed.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Request signatures – Add recipients",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.  The Mail and Message fields are just like the ones you use for sending an email and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Enter the desired information and do one of the following:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and more, click More Options.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•  To add form fields and specify where to sign, click Specify where to sign.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "If you don't want to use the More Options, skip the next optional step.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4.  (Optional) Click More Options, if you want to specify advanced options, such as signer",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "particular order for signing, toggle the switch to Complete In Any Order.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Based Authentication, Phone, or Acrobat Sign.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•  Specify the Recipient's Language in the email sent.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Advanced Options",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "5.  The Specify Where to Fill & Sign window is displayed showing options based on",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "More or",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "If you've added one signer, the Advanced Editing mode is off, and you see the",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "This mode provides simplified authoring with the capability of assigning fields to",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "to the signers make it easy to distinguish the fields for respective signers.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "If you've added multiple signers, you see the options as shown below. Click",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "button to place the detected form fields in the PDF document. Alternatively,",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Note:  You can switch between simplified mode and advanced mode for multiple signers.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "sent for signature to the recipients and a confirmation notice is displayed.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "the Click to sign button, the agreement is sent to the next signer with a link to sign, and so",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "All your signed documents are kept at one place and you can access them from anywhere.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Signer's experience",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "A signer receives an email with a link to sign the agreement. Also, if the signer uses Acrobat or",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Note: Signers are not required to sign up or purchase any Adobe product to sign agreements.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "desktop application.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Send in bulk allows you to upload a form and use that as a template to create and send many",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "The sender has access to the agreements through their Home or Documents tab or through",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To access the Send in bulk feature, do one of the following:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "In the Acrobat desktop app, go to the Tools center, scroll down to the E-Sign section,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "select Send in bulk.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Steps to send in bulk",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1.  Select the Send in Bulk tool as explained earlier. The Send in bulk file upload page",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.  Add a file:",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Upload (by search or drag-and-drop) the primary file that you are using to build",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The selector on the right of the Select a file button allows you to choose from the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Once a file is selected, the configuration page loads.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "3.  Add participants:",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "1. List the participants required.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "agreement.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "•  Each participant listed receives their own agreement.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2. Enter recipient email addresses followed by commas, or copy and paste a list of",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "3. Configure participant authentication by clicking the key icon to the right of the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "participant and is sufficient to obtain a legal signature in most cases.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Password authentication can be added to increase security. When configured, the participant",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "4.  . (Optional) Add yourself and/or CC'd parties",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "and complete.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "5.  (Optional) Add additional files if needed.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "The initial file selected to start the agreement template is already attached.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Upload any additional file(s) that you require.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "•  All files uploaded are concatenated into one file for the final agreement.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "•  The order the files are listed dictates how the final agreement will look.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "•  You must share this password with the participants out-of-band.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "6.  Add Agreement Details:",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "bulk template will have the same agreement name.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "•  Change the default text in the Message field as appropriate.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "7.  Edit the Agreement settings (Optional):",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "By default, agreements do not require a password to view the completed agreement,",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "open and view the signed PDF file.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "agreement is completed.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "8.  Click Next in the upper right corner of the window.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "The document is now ready to add any fields that you want the signers to fill in or sign.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Note:   If you have added multiple files, the files are converted into PDFs and combined into a",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "9.  Prepare the Agreement and Add Fields:",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "a Signature field must be placed for each signer (including internal counter-singers).",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "There are two methods to apply fields:",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "1. Simple Authoring is loaded by default in most instances. Simple authoring:",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Is limited to the most common types of fields:",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "triangle) and dragging the field to size.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "2.  Advanced Authoring can be enabled by selecting the toggle in the upper right corner.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "•  Allows access to all field types (highlighted in yellow)",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "•  Supports field assignment (highlighted in purple and pink)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "•  Allows control of the field text font/appearance",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "•  Places fields by dragging them from the menu on the right side of the document.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "and dragging the field to size.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Note:  You can switch between Simple and Advanced mode by selecting the Advanced",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "10.  Select Next (in the top-right corner) after all the fields have been placed.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "11.  Review and Send",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Review the agreement information and Send if everything is correct",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "12.  Confirmation",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "A confirmation message is shown verifying the agreement has been sent successfully.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "There are three options to progress from the post-sending page:",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "status, access audit trails, send reminder",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "•  Send another document in bulk- Prepare another document to send to many people",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "•  Click Close to return to the Acrobat online Home page",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Manage your bulk sends",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Bulk sends can be managed from your Documents tab.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "1.  Navigate to the Documents tab.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select Bulk Sends in the list of Your documents on the left side of the window.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "3.  Single-click the Bulk Send you to want to access, opening the context menu on the",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "template:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Image of the Bulk Sends' first page",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "•  The email value of the userID that created the Bulk Send",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "regarding the Bulk Send (parent template). Click the See More link at the bottom right",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "are available",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "•  Reminders – Add a reminder for yourself or everyone else who still needs to sign.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "•  Download PDF - Downloads the whole (blank) PDF.",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "child agreements spawned from this parent Bulk Send that have been completed.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "if multiple files were used to create the web form.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Bulk Send from your normal Manage page view.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Shared web forms can be viewed on the Manage page, but do not allow editing.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "sharee.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "•  View Activity Report",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "template.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "•  Add Notes - Allows the user to make personal notes for the Bulk Send.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "values that reflect the number of child agreements in each status. If no child",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "template).",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "In Progress - Indicates that the child agreement is waiting for the participant to",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "the participant declined to sign.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "participants on the agreement.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "the agreement.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "bottom of the context panel opens a chronological list of the enablement actions",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Adobe Acrobat supports a range of solutions for electronic and digital signatures. These",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Why use certificate signatures?",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Many business transactions, including financial, legal, and other regulated transactions,",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "document",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "transit",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Certificate-based signatures provide both of these security services. Many businesses and",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "For instance, companies in the European Union who need to comply with advanced or",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "What can I do with certificate IDs?",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Once certificate-based digital IDs have been provided to end users, they can",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Sign documents",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "authenticity with or without seeing a visible signature on the page",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Validate documents",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "•  Validate all signatures, confirming the identity of everyone who signed the document",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "to verify changes made during the document’s lifecycle",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Set privileges and permissions for others",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "comments",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "IDs",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "usage such as printing, editing, or copying",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "What if my organization isn’t prepared to set up certificate-",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "based signatures?",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Resources",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Adobe Approved Trust List (AATL): The Adobe Approved Trust List is a program that allows",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Adobe Security and Privacy Portal: A good first stop for all things security and privacy at",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Certified Document Services: Certified Document Services (CDS) was the predecessor to the",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Content Security Library: Extensive documentation on Adobe certificate signature",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Managing Digital IDs: Help pages for digital ID management.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "A certificate-based signature, like a conventional handwritten signature, identifies the person",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "To sign a document with a certificate-based signature, you must obtain a digital ID or create a",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "signature. The certificate is a credential that is automatically applied to the signed document.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "When you apply a certificate-based signature, Acrobat uses a hashing algorithm to generate a",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Certificate-based signature in a PDF form",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Steps to add a certificate-based signature to a PDF",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open a PDF in Acrobat and choose All Tools > more > Use a certificate in the",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Alternatively, from Acrobat Home, select See all tools. In the Protect section,",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "2.  The Use a certificate tool is open on the left pane.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "and then select Drag New Signature Rectangle in the dialog box that",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "without a visible signature.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "3.  Select OK in the Save as Certified Document dialog box.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "4.  If you've selected, Certify (visible signatures) in step 2, use the mouse to drag and draw",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "certifying the document and select Continue, or select Configure New Digital ID to",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "6.  Select Review to review the document content before signing, then select Sign. Save",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "Certifying and signing documents",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "The Use a certificate tool lets you apply two types of certificate-based signatures. You",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Digitally sign",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "When you Digitally sign with a certificate, the signature is considered an approval signature.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Certify (visible or invisible signatures)",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Certify options provide a higher level of document control than Digitally sign. For documents",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Signatures made with the Certify or Digitally sign options comply with data protection",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "Setting up certificate-based signatures",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "You can expedite the signing process and optimize your results by making the following",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Some situations require using particular digital IDs for signing. For example, a corporation or",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "for security partners), or create a self-signed one. See Create a self-signed digital ID.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "•  Set the default signing method.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "appearance.)",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "For information about using the Preview Document mode, see Sign in Preview",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "fields on multiple pages.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "application environment. (See Set signing preferences).",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "For details on the full range of configuration options in enterprise settings, see",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "determine the type you should choose to sign your document. (See Signature types.)",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Set signing preferences",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "are signing. For information on the available signing preferences, see “Signing Workflow",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Customizing signature workflows using seed values",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Seed values offer additional control to document authors by letting them specify which",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Create the appearance of a certificate-based signature",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "You determine the look of your certificate-based signature by selecting options in the",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "A signature can also include information that helps others verify your signature , such as",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "2.  Right-click the signature field, and select Sign Document or Certify with Visible",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Note: You can also create an appearance using the Signature preferences:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "3.  From the Appearance menu in the Sign dialog box, select Create New Appearance.",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "4.  In the Configure Signature Appearance dialog box, type a name for the signature",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "5.  For Configure Graphic, choose an option:",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "No Graphic",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Imported Graphic",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Name",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "6.  For Configure Text, select the options that you want to appear in the signature.",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "click OK. See also Enable right-to-left languages.",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "8.  (Optional) If the dialog box includes the Additional Signature Information section,",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "Set up a roaming ID account",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "A roaming ID is a digital ID that is stored on a server and can be accessed by the subscriber.",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the Preferences dialog box.",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "2.  Under Categories, select Signatures.",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "3.  For Identities & Trusted Certificates, select More.",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "4.  Expand Digital IDs on the left, select Roaming ID Accounts, and select Add",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "5.  Type the name and URL for the roaming ID server, and select Next.",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Select Next, and then select Finish.",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Once the roaming ID is added, it can be used for signing or encryption. When you perform a",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "PKCS#12 modules and tokens",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "documents in different roles or using different certification methods. Digital IDs are usually",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Store certificates on directory servers",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Directory servers are commonly used as centralized repositories of identities within an",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "For more information about directory servers, see the Digital Signature Guide.",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Import directory server settings (Windows only)",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "You import directory server settings using security import/export methodology or a security",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the Preferences dialog box.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "2.  Under Categories, select Signatures.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "3.  For Document Timestamping, select More.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "4.  Select Directory Servers on the left, and then select Import.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "5.  Select the import/export methodology file and select Open.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "6.  Select the Signature Properties button to check the current signature status if the file",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "7.  Select Import Search Directory Settings.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "8.  Select OK, if prompted to confirm your choice.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "The directory server appears in the Security Settings dialog box.",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Export directory server settings (Windows only)",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Although it is preferable to export security settings, you can export directory settings as an",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the Preferences dialog box.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "2.  Under Categories, select Identity.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "3.  Enter your name, organization, and email address to create your profile.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "4.  Under Categories, select Signatures.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "5.  For Document Timestamping, select More.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "6.  Select Directory Servers on the left, and then select one or more servers on the",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "7.  Select Export, select a destination, and then select Next.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "8.  To prove that the file came from you, select Sign, add your signature, and then",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "9.  Do one of the following:",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "•  To save the file, specify its name and location, and select Save.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "select Next, and then select Finish.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Note: See also Export security settings.",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "Add a timestamp to certificate-based signatures",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "You can include the date and time you signed the document as part of your certificate-based",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Timestamps appear in the signature field and in the Signature Properties dialog box. If a",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Note: If you did not embed a timestamp when you signed the document, you can add one",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Configure a timestamp server",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "To configure a timestamp server, you need the server name and the URL, which you can",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "If you have a security settings file, install it and don’t use the following instructions for",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "1.  Open the Preferences dialog box.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2.  Under Categories, select Signatures.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "3.  For Document Timestamping, click More.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "4.  Select Time Stamp Servers on the left.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "5.  Do one of the following:",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "If you have an import/export methodology file with the timestamp server",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "settings, click the Import button",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "If you've a URL for the timestamp server, select the New button",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "Set a timestamp server as the default",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "To be able to use a timestamp server to timestamp signatures, set it as the default server.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "1.  Open the Preferences dialog box.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "2.  Under Categories, select Signatures.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3.  For Document Timestamping, click More.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4.  Select Time Stamp Servers on the left.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "5.  Select the timestamp server, and click the Set Default button",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "6.  Select OK to confirm your selection.",
+      "page": 30
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "title": "Adobe LiveCycle Rights Management",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Adobe LiveCycle Rights Management",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "(ALCRM) servers",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ALCRM servers embed user access information in documents. Therefore, specify document",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Use ALCRM servers to set permissions for separate document tasks, for example opening,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "What is a digital signature?",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Digital signatures are a secure and efficient way to electronically sign and authenticate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Why validate a digital signature?",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "When you receive a signed document, you may want to validate its signature to verify the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "trusted. The validity of the signing certificate is also checked based on the user's Acrobat or",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "To verify document integrity, the validator checks if the signed content was altered after",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Set preferences for validating digital signatures",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "You can set verification preferences in advance so digital signatures are valid when you open",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1.  Select the hamburger menu   (Windows®), or go to Acrobat (macOS)> Preferences.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.  In the Preferences dialog box, from under categories, select Signatures.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.  From the Verification box in the Digital Signatures panel, select More...",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4.  In the 'Signature Verification Preferences' dialog that opens, you can control the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "document is opened check box selected, Acrobat automatically validates all",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "which plug-in to choose when verifying a signature. The appropriate plug-in",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "revocation checking to succeed... checkbox selected, Acrobat checks",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "signatures is ignored. The revocation status is always checked to certify",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "mentioned in the timestamp or embedded in the signature, even if the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "'Verification time' to check the time at which the signature was created, to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "information' to add verification information to the signed PDF or to alert the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "You can specify whether to trust all root certificates in the Windows®",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "signature validation.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "certification signature validation.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Note: Selecting these options can compromise security.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Set the trust level of a certificate",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "You can change the trust settings of certificates to allow specific actions. For example, you can",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "> Preferences > Signatures.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2.  For identities & Trusted Certificates, select More...",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.  From the left panel, select Trusted Certificates.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "4.  Select a certificate from the list and then select Edit Trust.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "5.  In the Edit Certificate Trust dialog that opens, select any of the following items to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "authority in a chain of certificate authorities that issued the certificate. By",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•  Signed documents or data: It acknowledges the identity of the signer.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "document with a signature. You trust the signer for certifying documents, and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "to play in a certified document.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "embedded in PDF files to run. JavaScript™ files can be used in malicious",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "domain scripting, silent printing, external-object references, and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Note: Allow Embedded high privilege JavaScript™ and Privileged system operations only",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "6.  Select OK.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Note: You can right-click a signature field in the Signatures panel to do most signature-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Sign in preview mode for document integrity",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "When document integrity is critical for your signature workflow, you can enable 'View",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "By signing in preview mode, you can find if the document contains:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•  Any dynamic content or external dependencies.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "and feel.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "After reviewing the report, you can contact the author of the document about the problems",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Certify a PDF",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Certifying a PDF means approving its contents and specifying what changes are allowed for",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "A certifying signature can only be applied if the PDF has no other signatures. These signatures",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "can be visible or invisible, and a blue ribbon icon",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Timestamp a document",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat allows users to add a document timestamp to a PDF without needing an identity-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Validate a digital signature",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "If the signature status is unknown or unverified, manually validate it to identify the issue and",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Validate all digital signatures",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "View previous versions of a digitally signed document",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Compare versions of a signed document",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Trust a signer’s certificate",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "certificates that are signed and certified by a trust anchor. Therefore, administrators can",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Sign component PDFs and PDF Portfolios",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "You can sign component PDFs within a PDF Portfolio, or sign the PDF Portfolio as a whole.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the PDF Portfolio.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Sheet). Once you sign the PDF Portfolio as a whole, you can’t add signatures to the",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Digitally sign on attachments to component PDFs",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "You can add signatures to attachments before signing the cover sheet. To do so:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.  Open the PDF in a separate window.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "2.  Right-click the attachment and select Open file.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "3.  To view signatures on the PDF Portfolio, navigate to the cover sheet to view the",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "View signed and certified PDF Portfolios",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "A properly signed or certified PDF Portfolio has one or more signatures that approve or certify",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the pointer over the Signature Badge.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the Signature Badge. The cover sheet and the Signatures pane on the left are open",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "If the PDF Portfolio approval or certification is invalid or has a problem, the Signature",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "For a list and explanation of each warning, see the DigSig Admin Guide.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "XML data signatures",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "XML data signatures conform to the W3C XML-Signature standard. Like PDF digital",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "However, PDF signatures have multiple data verification states. Some states are called when a",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Establish long-term signature validation",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Long-term signature validation allows you to verify the signature's validity long after the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "If certain information is not included in the PDF, the signature can only be validated for a",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "The necessary elements for signature validity include the signing certificate chain, certificate",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "extended PDF.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Note: Embedding timestamp information requires an appropriately configured timestamp",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "CDS certificates can add verification information, such as revocation and timestamp into the",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Add verification information at signing",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "To add verification information while signing:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1.  Ensure that your computer can connect to the appropriate network resources.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.  Go to Preferences > Signatures > Creation & Appearances: More and make sure that",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.  Sign the PDF.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "If all the elements of the certificate chain are available, the information is added to the PDF",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Add verification information after signing",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "In certain workflows, signature validation information may be unavailable during the signing",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "To add verification information after signing:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1.  Ensure that your computer can connect to the appropriate network resources, and",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.  Select Add Verification Information.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Information and methods used to include this long-term validation (LTV) information in the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "The command is unavailable if the signature is invalid, or is signed with a self-signed",
+      "page": 11
+    }
+  ]
+}
