@@ -87,3 +87,8 @@ docker run --rm \
 * Input PDFs can be placed individually or in folders under `input/` as needed.
 * Outputs are generated as JSON files matching the hackathon’s specified format.
 * For faster iteration and debugging, local virtual environment execution is recommended.
+
+## Team Members
+- [Aman Jaiswal](https://github.com/amanjaiswal7236)
+- [Siddhid Sambrut Dani](https://github.com/siddhid1)
+- [Soubhik Kumar Gon](https://github.com/zakhaev26)
